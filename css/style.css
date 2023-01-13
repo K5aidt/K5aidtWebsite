@@ -1,0 +1,12 @@
+body {
+    font-family: "tommy", sans-serif;
+  }
+
+  
+  @font-face {
+    font-family: 'tommy';
+    src: url('tommy.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
