@@ -28,6 +28,12 @@ a {
 .socials {
   backdrop-filter: blur(1px);
 }
+.button-socials a {
+  color: black !important;
+}
+.button-socials a:hover {
+  color: white !important;
+}
 .btn:hover {
   background-color: transparent !important;
   box-shadow: 1px 1px 10px rgb(109, 109, 109);
